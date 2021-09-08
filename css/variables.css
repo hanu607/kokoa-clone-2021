@@ -1,0 +1,11 @@
+:root {
+  --yellow: #fae100;
+  --brown: #3c1e1e;
+  --white: #f9f9fa;
+  --black: #2f363e;
+  --tomato: #ff6229;
+  --gray: #969696;
+  --pink: #ff73c9;
+  --horizontal-space: 25px;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+}
