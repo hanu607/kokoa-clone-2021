@@ -3,7 +3,8 @@
   height: 300vh;
 }
 #chat-screen .alt-header {
-  position: fixed;
+  position: sticky;
+  top: 26px;
   width: 100%;
   box-sizing: border-box;
   background-color: #abc1d1;
